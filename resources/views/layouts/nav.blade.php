@@ -86,7 +86,7 @@
                     </div>
 
                     <div class="col-auto d-none d-xl-block">
-                        <a href="contact.html" class="vs-btn sideMenuToggler">Apply Today</a>
+                        <a href="{{url('admission')}}" class="vs-btn">Apply For Admission</a>
                     </div>
                 </div>
             </div>

@@ -137,8 +137,8 @@
                     </div>
                     <div class="col-lg-auto">
                         <p class="copyright-text">
-                            Copyright &copy;2023 <a href="index.html">Kiddino</a>
-                            . All Rights Reserved By <a href="https://themeforest.net/user/vecuro_themes">Vecuro</a>
+                            Copyright &copy;<?php echo Date('Y');?> <a href="{{url('/')}}">Pragyani Montessori</a>
+                            . All Rights Reserved By <a href="https://themeforest.net/user/vecuro_themes">Hancie Phago</a>
                         </p>
                     </div>
                 </div>

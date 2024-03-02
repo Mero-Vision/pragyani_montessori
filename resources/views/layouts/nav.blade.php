@@ -56,7 +56,7 @@
 
                                 </li>
                                 <li>
-                                    <a href="about.html">About Us</a>
+                                    <a href="{{url('about')}}">About Us</a>
                                 </li>
                                 <li>
                                     <a href="match.html">Teachers</a>
@@ -76,7 +76,7 @@
                                 </li>
                                 
                                 <li>
-                                    <a href="contact.html">Contact</a>
+                                    <a href="{{url('contact-us')}}">Contact</a>
                                 </li>
                             </ul>
                         </nav>

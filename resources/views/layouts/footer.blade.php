@@ -4,7 +4,7 @@
                 <div class="row gx-60 gy-4 text-center text-lg-start justify-content-between align-items-center">
                     <div class="col-lg">
                         <a href="index.html">
-                            <img src="assets/img/logo-2.svg" alt="logo">
+                            <img src="{{url('assets/img/logo.jpg')}}" alt="logo" style="max-width: 20%">
                         </a>
                     </div>
                     <div class="col-lg-auto">
@@ -138,7 +138,7 @@
                     <div class="col-lg-auto">
                         <p class="copyright-text">
                             Copyright &copy;<?php echo Date('Y');?> <a href="{{url('/')}}">Pragyani Montessori</a>
-                            . All Rights Reserved By <a href="https://themeforest.net/user/vecuro_themes">Hancie Phago</a>
+                            . All Rights Reserved By <a href="https://hancie-phago.com.np/" target="_blank">Hancie Phago</a>
                         </p>
                     </div>
                 </div>

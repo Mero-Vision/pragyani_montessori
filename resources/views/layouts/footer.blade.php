@@ -14,7 +14,7 @@
                         </h3>
                     </div>
                     <div class="col-lg-auto">
-                        <a href="contact.html" class="vs-btn">Start Registration</a>
+                        <a href="{{url('/admission')}}" class="vs-btn">Start Registration</a>
                     </div>
                 </div>
             </div>

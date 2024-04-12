@@ -541,7 +541,7 @@
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section> --}}<br><br>
     <section class="space-extra-bottom">
         <div class="container">
             <div class="row justify-content-between text-center text-md-start">
@@ -596,7 +596,7 @@
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="media-body">
-                                <h3 class="testi-name h4">Protam Khadka</h3>
+                                <h3 class="testi-name h4">Pritam Khadka</h3>
                                 <div class="testi-rating">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>

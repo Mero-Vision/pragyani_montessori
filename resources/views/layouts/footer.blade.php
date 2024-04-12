@@ -71,7 +71,7 @@
                                 </p>
                                 <p class="footer-info">
                                     <i class="fas fa-mobile-alt"></i>
-                                    Phone: <a href="tel:+977 9803831933">9803831933, 9810212323</a>
+                                    Phone: <a href="tel:+977 9810212323">9810212323</a>
                                 </p>
                             </div>
                         </div>

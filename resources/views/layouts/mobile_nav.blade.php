@@ -5,7 +5,7 @@
         </button>
         <div class="mobile-logo">
             <a href="{{url('/')}}">
-                <img src="assets/img/logo.svg" alt="Kiddino">
+                <img src="{{url('assets/img/logo.jpg')}}" alt="Pragyani Montessori" style="max-width: 150px;">
             </a>
         </div>
         <div class="vs-mobile-menu">
@@ -15,27 +15,27 @@
 
                 </li>
                 <li>
-                    <a href="about.html">About Us</a>
+                    <a href="{{url('about')}}">About Us</a>
                 </li>
-                <li>
+                {{-- <li>
                     <a href="match.html">Teachers</a>
 
-                </li>
+                </li> --}}
                 <li>
-                    <a href="blog.html">Blog</a>
+                    <a href="">Blog</a>
 
                 </li>
                 <li>
-                    <a href="blog.html">Gallery</a>
+                    <a href="">Gallery</a>
 
                 </li>
                 <li>
-                    <a href="blog.html">Announcements</a>
+                    <a href="">Announcements</a>
 
                 </li>
 
                 <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="">Contact</a>
                 </li>
             </ul>
         </div>

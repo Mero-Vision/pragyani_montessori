@@ -6,7 +6,7 @@
                     <div class="header-links style-white">
                         <ul>
                             <li>
-                                <a href="registration.html">
+                                <a href="">
                                     <i class="far fa-user-circle"></i>
                                     Login
                                 </a>
@@ -58,20 +58,20 @@
                                 <li>
                                     <a href="{{url('about')}}">About Us</a>
                                 </li>
-                                <li>
+                                {{-- <li>
                                     <a href="match.html">Teachers</a>
 
-                                </li>
+                                </li> --}}
                                 <li>
-                                    <a href="blog.html">Blog</a>
+                                    <a href="">Blog</a>
 
                                 </li>
                                 <li>
-                                    <a href="blog.html">Gallery</a>
+                                    <a href="">Gallery</a>
 
                                 </li>
                                 <li>
-                                    <a href="blog.html">Announcements</a>
+                                    <a href="">Announcements</a>
 
                                 </li>
                                 

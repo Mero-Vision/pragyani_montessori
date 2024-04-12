@@ -25,11 +25,11 @@
                         <ul>
                             <li>
                                 <i class="fas fa-envelope"></i>
-                                Email: <a href="mailto:user@example.com">user@example.com</a>
+                                Email: <a href="mailto:support@pragyanmontessori.com">support@pragyanmontessori.com</a>
                             </li>
                             <li>
                                 <i class="fas fa-mobile-alt"></i>
-                                Phone: <a href="tel:+4402076897888">+44 (0) 207 689 7888</a>
+                                Phone: <a href="tel:+977 9803831933">9803831933, 9810212323</a>
                             </li>
                         </ul>
                     </div>

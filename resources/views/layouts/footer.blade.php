@@ -25,10 +25,9 @@
                     <div class="col-lg-4">
                         <div class="widget footer-widget">
                             <div class="widget-about">
-                                <h3 class="mt-n2">Giving your child the best start in life</h3>
+                                <h3 class="mt-n2">Pragyan Montessori & Childcare Center </h3>
                                 <p class="map-link">
-                                    <img src="{{ url('assets/img/map.svg') }}" alt="svg">First Floor, 10A Chandos
-                                    Street London New Town W1G 9LE
+                                    <img src="{{ url('assets/img/map.svg') }}" alt="svg">New Naikap, Pragati sangam marg, Chandragiri 14, Kathmandu
                                 </p>
                                 <div class="sidebar-gallery">
                                     <div class="gallery-thumb">
@@ -61,18 +60,18 @@
                             <h3 class="widget_title">Get In Touch</h3>
                             <div>
                                 <p class="footer-text">
-                                    Monday to Friday: <span class="time">8.30am – 02.00pm</span>
+                                    Sunday to Friday: <span class="time">8.30am – 02.00pm</span>
                                 </p>
                                 <p class="footer-text">
-                                    Saturday, Sunday: <span class="time">Close</span>
+                                    Saturday: <span class="time">Close</span>
                                 </p>
                                 <p class="footer-info">
                                     <i class="fal fa-envelope"></i>
-                                    Email: <a href="mailto:user@domainname.com">user@domainname.com</a>
+                                    Email: <a href="mailto:support@pragyanmontessori.com">support@pragyanmontessori.com</a>
                                 </p>
                                 <p class="footer-info">
                                     <i class="fas fa-mobile-alt"></i>
-                                    Phone: <a href="tel:+4402076897888">+44 (0) 207 689 7888</a>
+                                    Phone: <a href="tel:+977 9803831933">9803831933, 9810212323</a>
                                 </p>
                             </div>
                         </div>
@@ -121,10 +120,10 @@
                 <div class="row flex-row-reverse gy-3 justify-content-between align-items-center">
                     <div class="col-lg-auto">
                         <div class="footer-social">
-                            <a href="#">
+                            <a href="https://www.facebook.com/pragyanmontessorichildcare">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
-                            <a href="#">
+                            {{-- <a href="#">
                                 <i class="fab fa-twitter"></i>
                             </a>
                             <a href="#">
@@ -132,13 +131,13 @@
                             </a>
                             <a href="#">
                                 <i class="fab fa-youtube"></i>
-                            </a>
+                            </a> --}}
                         </div>
                     </div>
                     <div class="col-lg-auto">
                         <p class="copyright-text">
                             Copyright &copy;<?php echo Date('Y');?> <a href="{{url('/')}}">Pragyani Montessori</a>
-                            . All Rights Reserved By <a href="https://hancie-phago.com.np/" target="_blank">Hancie Phago</a>
+                            . Designed By <a href="https://merovision.com/" target="_blank">Mero Vision</a>
                         </p>
                     </div>
                 </div>

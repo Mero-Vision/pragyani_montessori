@@ -47,7 +47,7 @@
                 <div class="col-lg-6 col-xl-auto text-center text-lg-end">
                     <div class="img-box2">
                         <div class="transform-banner">
-                            <img src="assets/img/about/ab-2-1.jpg" alt="about">
+                            <img src="{{url('assets/img/about/ab-2-1.jpg')}}" alt="about">
                         </div>
                         <div class="vs-circle jump"></div>
                     </div>
@@ -79,7 +79,7 @@
                 <div class="col-lg-6 text-center text-lg-end">
                     <div class="img-box2 style2">
                         <div class="transform-banner">
-                            <img src="assets/img/about/ab-5-1.jpg" alt="about">
+                            <img src="{{url('assets/img/about/ab-5-1.jpg')}}" alt="about">
                         </div>
                         <div class="vs-circle jump"></div>
                     </div>
@@ -114,7 +114,7 @@
             </div>
         </div>
     </section>
-    <section class="space-top space-extra-bottom bg-smoke">
+    {{-- <section class="space-top space-extra-bottom bg-smoke">
         <div class="container">
             <div class="title-area text-center">
                 <div class="sec-bubble">
@@ -135,7 +135,7 @@
                         </div>
                         <div class="team-content">
                             <h3 class="team-name h2">
-                                <a href="team-details.html" class="text-inherit">Katie Willmore</a>
+                                <a href="team-details.html" class="text-inherit">Prajwol Khadka</a>
                             </h3>
                             <p class="team-degi">Principal and Manager</p>
                             <a href="tel:+4402076897888" class="team-number">+44 (0) 207 689 7888</a>
@@ -189,8 +189,10 @@
                 </div>
             </div>
         </div>
-    </section>
-    <section class="space-top space-extra-bottom">
+    </section> --}}
+
+
+    {{-- <section class="space-top space-extra-bottom">
         <div class="container">
             <div class="title-area text-center">
                 <span class="sec-subtitle">Kindergarten SCHEDULE</span>
@@ -251,8 +253,8 @@
                 </div>
             </div>
         </div>
-    </section>
-    <section class="space-extra-bottom">
+    </section> --}}
+    {{-- <section class="space-extra-bottom">
         <div class="container">
             <div class="title-area text-center">
                 <div class="sec-bubble">
@@ -341,17 +343,17 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <div class="space-extra-bottom">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-6 col-md-6 col-lg-auto">
                     <div class="vs-media media-style1 layout2">
                         <div class="media-icon">
-                            <img src="assets/img/icon/coun-1-1.svg" alt="icon">
+                            <img src="{{url('assets/img/icons/coun-1-1.svg')}}" alt="icon">
                         </div>
                         <div class="media-body">
-                            <p class="media-label">38</p>
+                            <p class="media-label">10+</p>
                             <p class="media-title">Student Classrooms</p>
                         </div>
                     </div>
@@ -359,7 +361,7 @@
                 <div class="col-6 col-md-6 col-lg-auto">
                     <div class="vs-media media-style1 layout2">
                         <div class="media-icon">
-                            <img src="assets/img/icon/coun-1-2.svg" alt="icon">
+                            <img src="{{url('assets/img/icons/coun-1-2.svg')}}" alt="icon">
                         </div>
                         <div class="media-body">
                             <p class="media-label">14</p>
@@ -370,7 +372,7 @@
                 <div class="col-6 col-md-6 col-lg-auto">
                     <div class="vs-media media-style1 layout2">
                         <div class="media-icon">
-                            <img src="assets/img/icon/coun-1-3.svg" alt="icon">
+                            <img src="{{url('assets/img/icons/coun-1-3.svg')}}" alt="icon">
                         </div>
                         <div class="media-body">
                             <p class="media-label">75</p>
@@ -381,7 +383,7 @@
                 <div class="col-6 col-md-6 col-lg-auto">
                     <div class="vs-media media-style1 layout2">
                         <div class="media-icon">
-                            <img src="assets/img/icon/coun-1-4.svg" alt="icon">
+                            <img src="{{url('assets/img/icons/coun-1-4.svg')}}" alt="icon">
                         </div>
                         <div class="media-body">
                             <p class="media-label">23</p>
@@ -414,7 +416,7 @@
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-1.png" alt="image">
+                            <img src="{{url('assets/img/choose/choose-1-1.png')}}" alt="image">
                         </div>
                         <h3 class="feature-title h5">
                             <a href="service-details.html" class="text-inherit">Learn And Play</a>
@@ -426,7 +428,7 @@
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-2.png" alt="image">
+                            <img src="{{url('assets/img/choose/choose-1-2.png')}}" alt="image">
                         </div>
                         <h3 class="feature-title h5">
                             <a href="service-details.html" class="text-inherit">Great Teachers</a>
@@ -438,7 +440,7 @@
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-3.png" alt="image">
+                            <img src="{{url('assets/img/choose/choose-1-3.png')}}" alt="image">
                         </div>
                         <h3 class="feature-title h5">
                             <a href="service-details.html" class="text-inherit">Family Environment</a>
@@ -450,7 +452,7 @@
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-4.png" alt="image">
+                            <img src="{{url('assets/img/choose/choose-1-4.png')}}" alt="image">
                         </div>
                         <h3 class="feature-title h5">
                             <a href="service-details.html" class="text-inherit">Excellent Programmes</a>
@@ -461,7 +463,7 @@
             </div>
         </div>
     </section>
-    <section class="space-top space-extra-bottom">
+    {{-- <section class="space-top space-extra-bottom">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6">
@@ -539,7 +541,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <section class="space-extra-bottom">
         <div class="container">
             <div class="row justify-content-between text-center text-md-start">
@@ -563,14 +565,16 @@
             <div class="row vs-carousel testislide3" data-slide-show="2" data-md-slide-show="2">
                 <div class="col-lg-6">
                     <div class="testi-style2">
-                        <p class="testi-text">From its medieval origins to the digital era, learn everything there is
-                            to know about the ubiquitous lorem ipsum passage sometimes known, is dummy.</p>
+                        <p class="testi-text">We've been impressed by the dedication of the teachers at Pragyan
+                            Montessori & Childcare Center. They take the time to understand each child's unique needs
+                            and tailor their approach accordingly.
+                        </p>
                         <div class="testi-body">
                             <div class="testi-icon">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="media-body">
-                                <h3 class="testi-name h4">Mari Jain</h3>
+                                <h3 class="testi-name h4">Sita Kattel</h3>
                                 <div class="testi-rating">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
@@ -584,14 +588,15 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="testi-style2">
-                        <p class="testi-text">Until recently, the prevailing view assumed lorem ipsum was born as a
-                            nonsense text. It's not Latin, though it looks like it, and it actually says nor is</p>
+                        <p class="testi-text">प्रज्ञान मोन्टेसोरी र बालशिक्षा केन्द्र भ्रमण गर्नुअघि हामीले यसलाई सही
+                            मिल्याउने भन्ने ठानेको थियो। सूचना अभिभावकहरूसँग अत्यन्त राम्रो छ, र हामी धेरै प्रसन्न छौं
+                            हाम्रो चयनमा।</p>
                         <div class="testi-body">
                             <div class="testi-icon">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="media-body">
-                                <h3 class="testi-name h4">Marko Polo</h3>
+                                <h3 class="testi-name h4">Protam Khadka</h3>
                                 <div class="testi-rating">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
@@ -605,14 +610,15 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="testi-style2">
-                        <p class="testi-text">Mercedes loves her school. she is leaving Monday. She is going to miss
-                            all her teachers. It's very good play school. she loved every minute there thank you.</p>
+                        <p class="testi-text">Pragyan Montessori & Childcare Center has been a blessing for our family.
+                            Our child has flourished under their care and guidance. The teachers are nurturing and
+                            skilled in the Montessori method. Highly recommended!</p>
                         <div class="testi-body">
                             <div class="testi-icon">
                                 <i class="fas fa-quote-left"></i>
                             </div>
                             <div class="media-body">
-                                <h3 class="testi-name h4">Jannie Marko</h3>
+                                <h3 class="testi-name h4">Maya Thapa</h3>
                                 <div class="testi-rating">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
@@ -627,86 +633,7 @@
             </div>
         </div>
     </section>
-    <section class="space-bottom">
-        <div class="container">
-            <div class="title-area text-center">
-                <h2 class="sec-title">Follow @instagram</h2>
-            </div>
-            <div class="row vs-carousel" data-slide-show="6" data-lg-slide-show="5" data-md-slide-show="4"
-                data-sm-slide-show="3" data-xs-slide-show="2">
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="assets/img/gallery/gal-2-1.jpg" alt="gallery">
-                            <a href="assets/img/gallery/gal-2-1.jpg" class="gallery-btn popup-image">
-                                <i class="far fa-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="assets/img/gallery/gal-2-2.jpg" alt="gallery">
-                            <a href="assets/img/gallery/gal-2-2.jpg" class="gallery-btn popup-image">
-                                <i class="far fa-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="assets/img/gallery/gal-2-3.jpg" alt="gallery">
-                            <a href="assets/img/gallery/gal-2-3.jpg" class="gallery-btn popup-image">
-                                <i class="far fa-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="assets/img/gallery/gal-2-4.jpg" alt="gallery">
-                            <a href="assets/img/gallery/gal-2-4.jpg" class="gallery-btn popup-image">
-                                <i class="far fa-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="assets/img/gallery/gal-2-5.jpg" alt="gallery">
-                            <a href="assets/img/gallery/gal-2-5.jpg" class="gallery-btn popup-image">
-                                <i class="far fa-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="assets/img/gallery/gal-2-6.jpg" alt="gallery">
-                            <a href="assets/img/gallery/gal-2-6.jpg" class="gallery-btn popup-image">
-                                <i class="far fa-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="gallery-style1">
-                        <div class="gallery-img">
-                            <img src="assets/img/gallery/gal-2-7.jpg" alt="gallery">
-                            <a href="assets/img/gallery/gal-2-7.jpg" class="gallery-btn popup-image">
-                                <i class="far fa-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
 
 

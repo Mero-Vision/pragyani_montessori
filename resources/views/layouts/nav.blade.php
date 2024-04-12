@@ -43,7 +43,7 @@
                 <div class="row gx-3 align-items-center justify-content-between">
                     <div class="col-8 col-sm-auto">
                         <div class="header-logo">
-                            <a href="index.html">
+                            <a href="{{url('/')}}">
                                 <img src="{{url('assets/img/logo.jpg')}}" alt="logo" style="max-width: 40%">
                             </a>
                         </div>

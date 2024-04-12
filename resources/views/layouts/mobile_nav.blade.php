@@ -21,7 +21,7 @@
                     <a href="match.html">Teachers</a>
 
                 </li> --}}
-                <li>
+                {{-- <li>
                     <a href="">Blog</a>
 
                 </li>
@@ -32,10 +32,10 @@
                 <li>
                     <a href="">Announcements</a>
 
-                </li>
+                </li> --}}
 
                 <li>
-                    <a href="">Contact</a>
+                    <a href="{{url('contact-us')}}">Contact</a>
                 </li>
             </ul>
         </div>

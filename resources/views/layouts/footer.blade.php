@@ -3,8 +3,8 @@
             <div class="container">
                 <div class="row gx-60 gy-4 text-center text-lg-start justify-content-between align-items-center">
                     <div class="col-lg">
-                        <a href="index.html">
-                            <img src="{{url('assets/img/logo.jpg')}}" alt="logo" style="max-width: 20%">
+                        <a href="{{url('/')}}">
+                            <img src="{{url('assets/img/logo.png')}}" alt="logo" style="max-width: 20%">
                         </a>
                     </div>
                     <div class="col-lg-auto">

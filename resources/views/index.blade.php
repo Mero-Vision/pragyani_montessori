@@ -53,7 +53,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:100%; top:494px; font-family:'Fredoka', sans-serif; width:711px; margin-left:-877px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="{{url('/admission')}}" class="vs-btn">Apply Today</a>
                 </div>
                 <h1 style="font-size:90px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:90px; color:#ffffff; top:141px; left:50%; width:1200px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
@@ -70,7 +70,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:495px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="{{url('/admission')}}" class="vs-btn">Apply Today</a>
                 </div>
                 <h1 style="font-size:110px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:110px; color:#ffffff; top:113px; left:50%; width:1200px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
@@ -83,7 +83,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:430px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="{{url('/admission')}}" class="vs-btn">Apply Today</a>
                 </div>
             </div>
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:out; kenburnsscale:1.1;">
@@ -121,7 +121,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:495px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="{{url('/admission')}}" class="vs-btn">Apply Today</a>
                 </div>
                 <h1 style="font-size:110px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:110px; color:#ffffff; top:113px; left:50%; width:1200px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
@@ -134,7 +134,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:430px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="{{url('/admission')}}" class="vs-btn">Apply Today</a>
                 </div>
             </div>
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:in; kenburnsscale:1.1;">
@@ -155,7 +155,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:100%; top:494px; font-family:'Fredoka', sans-serif; width:711px; margin-left:-877px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="{{url('/admission')}}" class="vs-btn">Apply Today</a>
                 </div>
                 <h1 style="font-size:90px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:90px; color:#ffffff; top:141px; left:50%; width:1200px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer"
@@ -172,7 +172,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:495px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="{{url('/admission')}}" class="vs-btn">Apply Today</a>
                 </div>
                 <h1 style="font-size:110px; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:600; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; font-family:'Fredoka', sans-serif; line-height:110px; color:#ffffff; top:113px; left:50%; width:1200px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer"
@@ -185,7 +185,7 @@
                 <div style="font-size:30px; color:#000; stroke:#000; stroke-width:0px; text-align:center; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; background-clip:border-box; overflow:visible; left:50%; top:430px; font-family:'Fredoka', sans-serif; width:1200px; margin-left:0px; -webkit-background-clip:border-box;"
                     class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer"
                     data-ls="offsetyin:100; delayin:700; easingin:easeOutQuint; offsetyout:100; easingout:easeOutQuint;">
-                    <a href="contact.html" class="vs-btn">Apply Today</a>
+                    <a href="{{url('/admission')}}" class="vs-btn">Apply Today</a>
                 </div>
             </div>
         </div>
@@ -197,16 +197,16 @@
                     <div class="img-box1">
                         <div class="vs-circle"></div>
                         <div class="img-1 mega-hover">
-                            <img src="{{ url('assets/img/ab-1-1.jpg') }}" alt="about">
+                            <img src="{{ url('assets/img/school/img-1.jpeg') }}" alt="about" style="max-height: 300px">
                         </div>
                         <div class="img-2 mega-hover">
-                            <img src="{{ url('assets/img/ab-1-2.jpg') }}" alt="about">
+                            <img src="{{ url('assets/img/school/img-2.jpeg') }}" alt="about" style="max-height: 300px">
                         </div>
                         <div class="img-3 mega-hover">
-                            <img src="{{ url('assets/img/ab-1-3.jpg') }}" alt="about">
+                            <img src="{{ url('assets/img/school/img-3.jpeg') }}" alt="about" style="max-height: 300px">
                         </div>
                         <div class="img-4 mega-hover">
-                            <img src="{{ url('assets/img/ab-1-4.jpg') }}" alt="about">
+                            <img src="{{ url('assets/img/school/img-4.jpg') }}" alt="about" style="max-height: 300px">
                         </div>
                     </div>
                 </div>
@@ -224,7 +224,7 @@
                                     <img src="{{ url('assets/img/ab-1-1.svg') }}" alt="icon">
                                 </div>
                                 <div class="media-body">
-                                    <p class="media-label">75</p>
+                                    <p class="media-label">15+</p>
                                     <p class="media-title">Outdoor Activities</p>
                                 </div>
                             </div>
@@ -263,7 +263,7 @@
                     <div class="service-body">
                         <div class="service-img">
                             <a href="service-details.html">
-                                <img src="{{ url('assets/img/sr-1-1.jpg') }}" alt="service">
+                                <img src="{{ url('assets/img/school/img-4.jpg') }}" alt="service" style="max-height: 380px">
                             </a>
                         </div>
                         <div class="service-content">
@@ -285,7 +285,7 @@
                     <div class="service-body">
                         <div class="service-img">
                             <a href="service-details.html">
-                                <img src="{{ url('assets/img/sr-1-2.jpg') }}" alt="service">
+                               <img src="{{ url('assets/img/school/img-8.jpeg') }}" alt="service" style="max-height: 380px">
                             </a>
                         </div>
                         <div class="service-content">
@@ -307,7 +307,7 @@
                     <div class="service-body">
                         <div class="service-img">
                             <a href="service-details.html">
-                                <img src="{{ url('assets/img/sr-1-3.jpg') }}" alt="service">
+                               <img src="{{ url('assets/img/school/img-3.jpeg') }}" alt="service" style="max-height: 380px">
                             </a>
                         </div>
                         <div class="service-content">
@@ -329,7 +329,7 @@
                     <div class="service-body">
                         <div class="service-img">
                             <a href="service-details.html">
-                                <img src="{{ url('assets/img/sr-1-4.jpg') }}" alt="service">
+                                <img src="{{ url('assets/img/school/img-6.jpeg') }}" alt="service" style="max-height: 380px">
                             </a>
                         </div>
                         <div class="service-content">
@@ -357,7 +357,7 @@
                     <div class="col-lg-6 col-xl-auto text-center text-lg-end">
                         <div class="img-box2">
                             <div class="transform-banner">
-                                <img src="{{ url('assets/img/ab-2-1.jpg') }}" alt="about">
+                                <img src="{{ url('assets/img/school/img-9.jpg') }}" alt="about">
                             </div>
                             <div class="vs-circle jump"></div>
                         </div>

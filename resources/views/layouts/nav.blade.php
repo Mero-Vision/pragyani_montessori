@@ -44,7 +44,7 @@
                     <div class="col-8 col-sm-auto">
                         <div class="header-logo">
                             <a href="{{url('/')}}">
-                                <img src="{{url('assets/img/logo.jpg')}}" alt="logo" style="max-width: 40%">
+                                <img src="{{url('assets/img/logo.png')}}" alt="logo" style="max-width: 35%">
                             </a>
                         </div>
                     </div>

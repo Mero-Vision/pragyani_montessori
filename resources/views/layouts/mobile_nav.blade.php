@@ -5,7 +5,7 @@
         </button>
         <div class="mobile-logo">
             <a href="{{url('/')}}">
-                <img src="{{url('assets/img/logo.jpg')}}" alt="Pragyani Montessori" style="max-width: 150px;">
+                <img src="{{url('assets/img/logo.png')}}" alt="Pragyani Montessori" style="max-width: 150px;">
             </a>
         </div>
         <div class="vs-mobile-menu">

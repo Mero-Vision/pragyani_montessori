@@ -43,9 +43,15 @@
                 <div class="row gx-3 align-items-center justify-content-between">
                     <div class="col-8 col-sm-auto">
                         <div class="header-logo">
-                            <a href="{{url('/')}}">
-                                <img src="{{url('assets/img/logo.png')}}" alt="logo" style="max-width: 35%">
-                            </a>
+                           <a href="{{ url('/') }}" style="display: inline-block; text-decoration: none;">
+                <img src="{{ url('assets/img/logo.png') }}" alt="logo" style="max-width: 35%; vertical-align: middle;">
+                <span style="vertical-align: middle; display: inline-block;"><h5 style="margin: 0;">Pragyan</h5> <h5 style="margin: 0;">Montessori</h5></span>
+            </a>
+
+
+
+
+
                         </div>
                     </div>
                     <div class="col text-end text-lg-center">
@@ -56,13 +62,13 @@
 
                                 </li>
                                 <li>
-                                    <a href="{{url('about')}}">About Us</a>
+                                    <a href="{{ url('about') }}">About Us</a>
                                 </li>
-                                {{-- <li>
+                                <li>
                                     <a href="match.html">Teachers</a>
 
-                                </li> --}}
-                                {{-- <li>
+                                </li> 
+                             <li>
                                     <a href="">Blog</a>
 
                                 </li>
@@ -73,10 +79,10 @@
                                 <li>
                                     <a href="">Announcements</a>
 
-                                </li> --}}
-                                
+                                </li> 
+
                                 <li>
-                                    <a href="{{url('contact-us')}}">Contact</a>
+                                    <a href="{{ url('contact-us') }}">Contact</a>
                                 </li>
                             </ul>
                         </nav>
@@ -86,7 +92,7 @@
                     </div>
 
                     <div class="col-auto d-none d-xl-block">
-                        <a href="{{url('admission')}}" class="vs-btn">Apply For Admission</a>
+                        <a href="{{ url('admission') }}" class="vs-btn">Apply For Admission</a>
                     </div>
                 </div>
             </div>

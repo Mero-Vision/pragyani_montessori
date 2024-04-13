@@ -31,23 +31,20 @@
                                 </p>
                                 <div class="sidebar-gallery">
                                     <div class="gallery-thumb">
-                                        <img src="{{ url('assets/img/gal-2-1.jpg') }}" alt="Gallery Image"
-                                            class="w-100">
-                                        <a href="{{ url('assets/img/gal-2-1.jpg') }}" class="popup-image gal-btn">
+                                        <img src="{{url('assets/img/school/img-15.jpeg')}}" alt="image" style="max-width: 116px; max-height:92px;">
+                                        <a href="{{ url('assets/img/school/img-15.jpeg') }}" class="popup-image gal-btn">
                                             <i class="fal fa-plus"></i>
                                         </a>
                                     </div>
                                     <div class="gallery-thumb">
-                                        <img src="{{ url('assets/img/gal-2-1.jpg') }}" alt="Gallery Image"
-                                            class="w-100">
-                                        <a href="{{ url('assets/img/gal-2-1.jpg') }}" class="popup-image gal-btn">
+                                        <img src="{{url('assets/img/school/banner-1.jpg')}}" alt="image" style="max-width: 116px; max-height:92px;">
+                                        <a href="{{ url('assets/img/school/banner-1.jpg') }}" class="popup-image gal-btn">
                                             <i class="fal fa-plus"></i>
                                         </a>
                                     </div>
                                     <div class="gallery-thumb">
-                                        <img src="{{ url('assets/img/gal-2-1.jpg') }}" alt="Gallery Image"
-                                            class="w-100">
-                                        <a href="{{ url('assets/img/gal-2-1.jpg') }}" class="popup-image gal-btn">
+                                        <img src="{{url('assets/img/school/img-11.jpeg')}}" alt="image" style="max-width: 116px; max-height:92px;">
+                                        <a href="{{ url('assets/img/school/img-11.jpeg') }}" class="popup-image gal-btn">
                                             <i class="fal fa-plus"></i>
                                         </a>
                                     </div>

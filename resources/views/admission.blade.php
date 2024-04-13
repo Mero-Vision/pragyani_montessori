@@ -47,10 +47,10 @@
                     <div class="col-xl-auto col-xxl-6">
                         <div class="img-box6">
                             <div class="img-1 mega-hover">
-                                <img src="{{url('assets/img/con-1-1.jpg')}}" alt="image">
+                                <img src="{{url('assets/img/school/img-14.jpeg')}}" alt="image" style="max-width: 440px; max-width:330px;">
                             </div>
                             <div class="img-2 mega-hover">
-                                <img src="{{url('assets/img/con-1-2.jpg')}}" alt="image">
+                                 <img src="{{url('assets/img/school/img-15.jpeg')}}" alt="image" style="max-width: 440px; max-width:330px;">
                             </div>
                         </div>
                     </div>
@@ -183,40 +183,7 @@
                 </div>
             </div>
         </section>
-        <section class="space-bottom">
-            <div class="container">
-                <div class="title-area">
-                    <h2 class="text-center mt-n2">Key supporters</h2>
-                </div>
-                <div class="row vs-carousel gx-10" data-slide-show="5" data-ml-slide-show="4" data-lg-slide-show="3" data-md-slide-show="2" data-sm-slide-show="2">
-                    <div class="col-auto">
-                        <div class="brand-style1">
-                            <img src="assets/img/brand/b-1-1.png" alt="brand">
-                        </div>
-                    </div>
-                    <div class="col-auto">
-                        <div class="brand-style1">
-                            <img src="assets/img/brand/b-1-2.png" alt="brand">
-                        </div>
-                    </div>
-                    <div class="col-auto">
-                        <div class="brand-style1">
-                            <img src="assets/img/brand/b-1-3.png" alt="brand">
-                        </div>
-                    </div>
-                    <div class="col-auto">
-                        <div class="brand-style1">
-                            <img src="assets/img/brand/b-1-4.png" alt="brand">
-                        </div>
-                    </div>
-                    <div class="col-auto">
-                        <div class="brand-style1">
-                            <img src="assets/img/brand/b-1-5.png" alt="brand">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
 
 
 

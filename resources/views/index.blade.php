@@ -357,7 +357,7 @@
                     <div class="col-lg-6 col-xl-auto text-center text-lg-end">
                         <div class="img-box2">
                             <div class="transform-banner">
-                                <img src="{{ url('assets/img/school/img-9.jpg') }}" alt="about">
+                                <img src="{{ url('assets/img/school/img-13.jpeg') }}" alt="about" style="max-width: 618px; max-height:618px;">
                             </div>
                             <div class="vs-circle jump"></div>
                         </div>
@@ -657,7 +657,7 @@
                 <div class="col-lg-6 col-xxl-auto pb-3 pb-xl-0">
                     <div class="img-box3">
                         <div class="img-1 mega-hover">
-                            <img src="{{ url('assets/img/faq-1-1.jpg') }}" alt="FAQ">
+                            <img src="{{ url('assets/img/school/img-10.jpeg') }}" alt="FAQ" style="max-width: 593px;">
                             <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
                                 class="play-btn popup-video position-center">
                                 <i class="fas fa-play"></i>

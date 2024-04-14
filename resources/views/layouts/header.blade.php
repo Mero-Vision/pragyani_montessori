@@ -8,7 +8,7 @@
 
 
 
-        <x-meta title="Pragyani Montessori & Childcare Center - New Naikap, Kathmandu"
+        <x-meta title="Pragyan Montessori & Childcare Center - New Naikap, Kathmandu"
             description="Discover a nurturing learning environment for your child at Pragyani 
             Montessori & Childcare Center, conveniently located on Pragati Sangam Marg in New Naikap,
              Chandragiri 14, Kathmandu. "

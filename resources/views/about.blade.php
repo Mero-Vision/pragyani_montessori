@@ -33,7 +33,7 @@
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
                         <li>
-                            <a href="index.html">Home</a>
+                            <a href="{{url('/')}}">Home</a>
                         </li>
                         <li>About Us</li>
                     </ul>

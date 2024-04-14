@@ -1,6 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
 @include('layouts.header')
+@livewireStyles
 
 <body>
     <div class="preloader">
@@ -28,12 +29,12 @@
    <div class="breadcumb-wrapper" data-bg-src="{{ url('assets/img/breadcumb-bg.jpg') }}">
             <div class="container z-index-common">
                 <div class="breadcumb-content">
-                    <h1 class="breadcumb-title">Registration</h1>
+                    <h1 class="breadcumb-title">Apply For Admission Inquiry</h1>
                     <p class="breadcumb-text">Montessori Is A Nurturing And Holistic Approach To Learning</p>
                     <div class="breadcumb-menu-wrap">
                         <ul class="breadcumb-menu">
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="{{url('/')}}">Home</a>
                             </li>
                             <li>Registration</li>
                         </ul>
@@ -55,7 +56,7 @@
                         </div>
                     </div>
                     <div class="col-xl col-xxl-6 align-self-center">
-                        <h2 class="sec-title mb-3">Apply for Admission</h2>
+                        <h2 class="sec-title mb-3">Apply for Admission Inquiry</h2>
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="list-style1">
@@ -74,51 +75,9 @@
                                 </div>
                             </div>
                         </div>
-                        <form action="#" class="form-style3">
-                            <div class="row justify-content-between">
-                                <div class="col-md-6 form-group">
-                                    <label>
-                                        Child's Name <span class="required">(Required)</span>
-                                    </label>
-                                    <input type="text">
-                                </div>
-                                <div class="col-md-6 form-group">
-                                    <label>
-                                        Child's DOB <span class="required">(Required)</span>
-                                    </label>
-                                    <input type="date">
-                                </div>
-                                <div class="col-md-6 form-group">
-                                    <label>
-                                        Parent's Name <span class="required">(Required)</span>
-                                    </label>
-                                    <input type="text">
-                                </div>
-                                <div class="col-md-6 form-group">
-                                    <label>
-                                        Parent's Designation <span class="required">(Required)</span>
-                                    </label>
-                                    <input type="text">
-                                </div>
-                                <div class="col-md-6 form-group">
-                                    <label>
-                                        Email <span class="required">(Required)</span>
-                                    </label>
-                                    <input type="email">
-                                </div>
-                                <div class="col-md-6 form-group">
-                                    <label>Phone No</label>
-                                    <input type="number">
-                                </div>
-                                <div class="col-auto align-self-center form-group">
-                                    <input type="checkbox" id="notice" name="notice">
-                                    <label for="notice">Notify Your child weekly progress</label>
-                                </div>
-                                <div class="col-auto form-group">
-                                    <button class="vs-btn" type="submit">Apply Now</button>
-                                </div>
-                            </div>
-                        </form>
+                        
+                        @livewire('admission-inquiry-form')
+
                     </div>
                 </div>
             </div>
@@ -188,6 +147,7 @@
 
 
     @include('layouts.footer')
+    @livewireScripts
 </body>
 
 </html>

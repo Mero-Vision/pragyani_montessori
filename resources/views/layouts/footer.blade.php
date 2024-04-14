@@ -117,7 +117,7 @@
                 <div class="row flex-row-reverse gy-3 justify-content-between align-items-center">
                     <div class="col-lg-auto">
                         <div class="footer-social">
-                            <a href="https://www.facebook.com/pragyanmontessorichildcare">
+                            <a target="_blank" href="https://www.facebook.com/pragyanmontessori">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
                             {{-- <a href="#">

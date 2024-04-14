@@ -357,7 +357,7 @@
                     <div class="col-lg-6 col-xl-auto text-center text-lg-end">
                         <div class="img-box2">
                             <div class="transform-banner">
-                                <img src="{{ url('assets/img/school/img-13.jpeg') }}" alt="about" style="max-width: 618px; max-height:618px;">
+                                <img src="{{ url('assets/img/school/img-13.jpeg') }}" alt="about" style="width: 618px; height:618px;">
                             </div>
                             <div class="vs-circle jump"></div>
                         </div>

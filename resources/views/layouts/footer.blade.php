@@ -75,36 +75,22 @@
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="widget widget_nav_menu footer-widget">
-                            <h3 class="widget_title">Useful Services</h3>
+                            <h3 class="widget_title">Useful Links</h3>
                             <div class="menu-all-pages-container footer-menu">
                                 <ul class="menu">
                                     <li>
-                                        <a href="#">Volunteer</a>
+                                        <a href="{{url('admission')}}">Admission</a>
                                     </li>
                                     <li>
-                                        <a href="#">Join or Renew</a>
+                                        <a href="{{url('about')}}">About Us</a>
                                     </li>
                                     <li>
-                                        <a href="#">Advocate</a>
+                                        <a href="{{url('announcements')}}">Announcements</a>
                                     </li>
                                     <li>
-                                        <a href="#">Membership Options</a>
+                                        <a href="{{url('contact-us')}}">Contact Us</a>
                                     </li>
-                                    <li>
-                                        <a href="#">Partner</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Families Membership</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Sponsor</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Contact Us</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Advertise</a>
-                                    </li>
+                                   
                                 </ul>
                             </div>
                         </div>

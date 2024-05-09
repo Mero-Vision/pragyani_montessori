@@ -68,10 +68,12 @@
                                 <li>
                                     <a href="{{ url('about') }}">About Us</a>
                                 </li>
-                                {{-- <li>
-                                    <a href="match.html">Teachers</a>
+                                <li>
+                                    <a href="{{ url('teachers') }}">Teachers</a>
 
                                 </li>
+
+                                {{--
 
                                 <li>
                                     <a href="">Blog</a>

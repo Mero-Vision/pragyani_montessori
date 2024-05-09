@@ -29,10 +29,11 @@
                     <a href="">Gallery</a>
 
                 </li>
+                 --}}
                 <li>
-                    <a href="">Announcements</a>
+                   <a href="{{ url('announcements') }}">Announcements</a>
 
-                </li> --}}
+                </li>
 
                 <li>
                     <a href="{{url('contact-us')}}">Contact</a>

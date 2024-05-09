@@ -68,7 +68,7 @@
                                 <li>
                                     <a href="{{ url('about') }}">About Us</a>
                                 </li>
-                                <li>
+                                {{-- <li>
                                     <a href="match.html">Teachers</a>
 
                                 </li>
@@ -80,8 +80,8 @@
                                 <li>
                                     <a href="">Gallery</a>
 
-                                </li>
-                                
+                                </li> --}}
+
                                 <li>
                                     <a href="{{ url('announcements') }}">Announcements</a>
 

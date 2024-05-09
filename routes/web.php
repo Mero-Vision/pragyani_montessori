@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\AdmissionController;
+use App\Http\Controllers\AnnouncementController;
 use App\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
 
@@ -25,3 +26,6 @@ Route::get('about',[AboutController::class,'index']);
 Route::get('contact-us', [ContactController::class, 'index']);
 
 Route::get('admission', [AdmissionController::class, 'index']);
+
+
+Route::get('announcements', [AnnouncementController::class, 'index']);

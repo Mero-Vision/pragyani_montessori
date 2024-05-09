@@ -43,10 +43,14 @@
                 <div class="row gx-3 align-items-center justify-content-between">
                     <div class="col-8 col-sm-auto">
                         <div class="header-logo">
-                           <a href="{{ url('/') }}" style="display: inline-block; text-decoration: none;">
-                <img src="{{ url('assets/img/logo.png') }}" alt="logo" style="max-width: 35%; vertical-align: middle;">
-                <span style="vertical-align: middle; display: inline-block;"><h5 style="margin: 0;">Pragyan</h5> <h5 style="margin: 0;">Montessori</h5></span>
-            </a>
+                            <a href="{{ url('/') }}" style="display: inline-block; text-decoration: none;">
+                                <img src="{{ url('assets/img/logo.png') }}" alt="logo"
+                                    style="max-width: 35%; vertical-align: middle;">
+                                <span style="vertical-align: middle; display: inline-block;">
+                                    <h5 style="margin: 0;">Pragyan</h5>
+                                    <h5 style="margin: 0;">Montessori</h5>
+                                </span>
+                            </a>
 
 
 
@@ -67,19 +71,21 @@
                                 <li>
                                     <a href="match.html">Teachers</a>
 
-                                </li> 
-                             <li>
-                                    <a href="">Blog</a>
-
                                 </li>
+
+                                <li>
+                                    <a href="">Blog</a>
+                                </li>
+
                                 <li>
                                     <a href="">Gallery</a>
 
                                 </li>
+                                
                                 <li>
-                                    <a href="">Announcements</a>
+                                    <a href="{{ url('announcements') }}">Announcements</a>
 
-                                </li> 
+                                </li>
 
                                 <li>
                                     <a href="{{ url('contact-us') }}">Contact</a>

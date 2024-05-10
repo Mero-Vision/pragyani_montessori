@@ -75,6 +75,7 @@
 
                         {{$blogs->links('pagination::bootstrap-5')}}
                     @empty
+                     <h2 class="blog-title text-center">Currently No Blogs Available</h2>
                     @endforelse
 
 
@@ -105,7 +106,7 @@
                                     </div>
                                 </div>
                                 @empty
-                                     <h2 class="blog-title text-center">No Blogs Available</h2>
+                                     <p class="blog-title text-center">Currently No Blogs Available</p>
                                 @endforelse
                                 
                                 

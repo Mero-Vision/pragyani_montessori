@@ -73,16 +73,12 @@
 
                                 </li>
 
-                                {{--
+                               
 
                                 <li>
-                                    <a href="">Blog</a>
+                                    <a href="{{url('blogs')}}">Blogs</a>
                                 </li>
 
-                                <li>
-                                    <a href="">Gallery</a>
-
-                                </li> --}}
 
                                 <li>
                                     <a href="{{ url('announcements') }}">Announcements</a>

@@ -120,7 +120,7 @@
                             </form>
                         </div>
                         <div class="widget  ">
-                            <h3 class="widget_title">Latest News</h3>
+                            <h3 class="widget_title">Latest Blogs</h3>
                             <div class="recent-post-wrap">
                                 @forelse ($recentBlogs as $blog)
                                     <div class="recent-post">

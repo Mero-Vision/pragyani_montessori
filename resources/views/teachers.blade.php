@@ -44,7 +44,7 @@
     </div>
 
 
-    <section class=" space-top space-extra-bottom">
+    <section class="mt-5 space-extra-bottom">
         <div class="container">
 
             <h3 class="team-name h2">Founders</h3>

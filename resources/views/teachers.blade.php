@@ -52,11 +52,11 @@
                     <div class="col-sm-6">
                         <div class="team-style1 layout2">
                             <div class="team-img">
-                                <a href="team-details.html"><img src="{{ $teacher->getFirstMediaUrl('cms_teacher') }}"
+                                <a href="#"><img src="{{ $teacher->getFirstMediaUrl('cms_teacher') }}"
                                         alt="team" style="width: 200px; height:200px"></a>
                             </div>
                             <div class="team-content">
-                                <h3 class="team-name h2"><a href="team-details.html"
+                                <h3 class="team-name h2"><a href="#"
                                         class="text-inherit">{{ $teacher->name }}</a></h3>
                                 <p class="team-degi">{{ $teacher->designation }}</p>
                                 <a href="tel:+4402076897888"

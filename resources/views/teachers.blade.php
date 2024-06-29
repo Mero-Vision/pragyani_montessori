@@ -46,6 +46,47 @@
 
     <section class=" space-top space-extra-bottom">
         <div class="container">
+
+            <h3 class="team-name h2">Founders</h3>
+            <div class="row align-items-center">
+
+                <div class="col-sm-6">
+                    <div class="team-style1 layout2">
+                        <div class="team-img">
+                            <a href="#"><img src="{{ url('assets/img/founders/founder1.jpg') }}" alt="team"
+                                    style="width: 200px; height:200px"></a>
+                        </div>
+                        <div class="team-content">
+                            <h3 class="team-name h2"><a href="#" class="text-inherit">Sanu Khadka</a>
+                            </h3>
+                            <p class="team-degi">Founder</p>
+                            <a href="tel:+4402076897888" class="team-number">9810212323</a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="team-style1 layout2">
+                        <div class="team-img">
+                            <a href="#"><img src="{{ url('assets/img/founders/founder2.jpg') }}" alt="team"
+                                    style="width: 200px; height:200px"></a>
+                        </div>
+                        <div class="team-content">
+                            <h3 class="team-name h2"><a href="#" class="text-inherit">Sarita Shrestha</a>
+                            </h3>
+                            <p class="team-degi">Founder</p>
+                            <a href="tel:+4402076897888" class="team-number">9810212323</a>
+
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+
+            <h3 class="team-name h2">Teachers</h3>
             <div class="row align-items-center">
 
                 @forelse ($teachers as $teacher)
@@ -56,8 +97,8 @@
                                         alt="team" style="width: 200px; height:200px"></a>
                             </div>
                             <div class="team-content">
-                                <h3 class="team-name h2"><a href="#"
-                                        class="text-inherit">{{ $teacher->name }}</a></h3>
+                                <h3 class="team-name h2"><a href="#" class="text-inherit">{{ $teacher->name }}</a>
+                                </h3>
                                 <p class="team-degi">{{ $teacher->designation }}</p>
                                 <a href="tel:+4402076897888"
                                     class="team-number">{{ $teacher->phone_no ?? 'No Phone Number' }}</a>

@@ -76,7 +76,7 @@
                             <h3 class="team-name h2"><a href="#" class="text-inherit">Sarita Shrestha</a>
                             </h3>
                             <p class="team-degi">Founder</p>
-                            <a href="tel:+4402076897888" class="team-number">9810212323</a>
+                            <a href="tel:+4402076897888" class="team-number">9860022745</a>
 
                         </div>
                     </div>
